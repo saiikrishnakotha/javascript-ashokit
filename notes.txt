@@ -7,3 +7,57 @@ in javascript the fraction value will be very long comapre to other laguage
 
 like ex : 0.1 + 0.2 = 0.3000000000004
 
+
+
+variables : in es11 we have 
+----------
+string,number,boolean,arrays, object, bigint, symbol
+
+
+varaiables are used to store data 
+ Ex : 
+      string
+      number
+      boolean
+      arrays
+      object
+
+we will declare varaiables in three ways : var, let , const 
+
+lat and const keywords are introduced in ES6
+varaiables should contain A-Z ,a-z ,$ and _
+varaiables sholud not start with digits 
+
+syntax  : 
+var / let /const  varaiablename = value ;
+ex : 
+var data = " welcome to java script"
+
+
+string :
+------
+collection of characters called as string 
+ 
+ string contains "" , '' ,`` (baktick operator)
+ technically baktick operator called as template literal 
+ baktick operator used to define the "paragraphs" 
+
+ number:
+
+ there are 4 types of numbers 
+ @decimal number 
+ @double
+ @hexa decimal
+ @octal 
+ @binary
+
+ hexadecimal number will prefix with '0x'
+ octal number will prefix with '0o'
+ binary number wil prefix with '0b'
+
+
+
+ //for()   while()  do..while()          //<ES6
+//forEach(), for..in(), for...of()      //ES6
+
+
