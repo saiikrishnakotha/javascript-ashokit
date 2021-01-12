@@ -1,0 +1,9 @@
+== and === operator 
+
+== operator compares only content
+whre as === operator compares both content and datatype 
+
+in javascript the fraction value will be very long comapre to other laguage 
+
+like ex : 0.1 + 0.2 = 0.3000000000004
+
